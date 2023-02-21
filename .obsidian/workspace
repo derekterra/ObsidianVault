@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d4256849be4a739f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2783c15838d5fa0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conmutacion y enrutamiento de redes y datos/Unidad 3/Unidad 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "729a9dd0387bcc17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83566bdeb8c8499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3429c3b74ffea5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "353bb65b3056b435",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pagp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2da849cb7bf18c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "e6bbee208ca0cf88",
+    "type": "split",
+    "children": [
+      {
+        "id": "01dd25ec38fb3e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10555557e9706e5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf3bbc599e11b98e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conmutacion y enrutamiento de redes y datos/Unidad 3/Unidad 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d48035a5314d715",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conmutacion y enrutamiento de redes y datos/Unidad 3/Unidad 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "475b2694ab50c787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conmutacion y enrutamiento de redes y datos/Unidad 3/Unidad 3.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 103.60000610351562
+  },
+  "active": "7c3429c3b74ffea5",
+  "lastOpenFiles": [
+    "Conmutacion y enrutamiento de redes y datos/Unidad 2/Switch Capa 3.md",
+    "Conmutacion y enrutamiento de redes y datos/Unidad 2/Capitulo 5 STP.md",
+    "Taller de investigación 1/Unidad 2/Metodo dialectico.md",
+    "Taller de investigación 1/Unidad 1/Exposicion 4 y 5.md",
+    "Programacion logica y funcional/Unidad 3 Programacion funcional/Arboles Binarios.md",
+    "Conmutacion y enrutamiento de redes y datos/Unidad 4/VPN.md",
+    "BackEnd/Unidad 2.md",
+    "Gestion de Proyectos de Software/Unidad 1/Untitled.md",
+    "Taller de sistemas operativos/Unidad 3 Gestion del servidor/Untitled 1.md",
+    "Programacion logica y funcional/Unidad 3 Programacion funcional/Listas PROLOG.md"
+  ]
+}

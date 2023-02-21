@@ -1,0 +1,7 @@
+- Nada esta aislado
+- Todo esta conectado
+- Toda la realidad esta en constante proceso de cambio
+- Lucha de contrarios 
+	- Tesis
+	- Antitesis
+	- Sintesis

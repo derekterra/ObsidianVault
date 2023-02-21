@@ -1,0 +1,2 @@
+Las pruebas unitarias consisten en **aislar una parte del código y comprobar que funciona a la perfección**. Son pequeños _tests_ que validan el comportamiento de un objeto y la lógica.  
+Las pruebas unitarias suelen realizarse durante la fase de desarrollo de aplicaciones de software o móviles. Normalmente las llevan a cabo los **desarrolladores**, aunque en la práctica, también pueden realizarlas los **responsables de QA**

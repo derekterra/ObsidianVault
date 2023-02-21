@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "d4256849be4a739f",
+    "type": "split",
+    "children": [
+      {
+        "id": "efc21a5b261bfd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4913844ebc96ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Introduccion al Cloud Computing/Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a7e70dcb47e747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Graficación/Tema 1 - Introducción a la graficación  por computadora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bdca4afd2fd9cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Syntaxis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18323bb873c5d217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Selectores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f01ecc5ac076dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ffbfb35dc04c9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Inteligencía Artificial/Qué es la inteligencia artificial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd2eac2108881b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Inteligencía Artificial/Exposicion equipo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96505e464ef2eb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Inteligencía Artificial/Exposicion equipo 2 Inteligencia de colmena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "032de530c8d486c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4829c528add1fac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "729a9dd0387bcc17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83566bdeb8c8499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3429c3b74ffea5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "353bb65b3056b435",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2da849cb7bf18c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e6bbee208ca0cf88",
+    "type": "split",
+    "children": [
+      {
+        "id": "01dd25ec38fb3e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10555557e9706e5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf3bbc599e11b98e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d48035a5314d715",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "475b2694ab50c787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursos/Git y GitHub/Comandos git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4829c528add1fac8",
+  "lastOpenFiles": [
+    "Cursos/Web/JavaScript/JQuery/Efectos/Fading.md",
+    "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
+    "Cursos/Web/JavaScript/JQuery/Efectos/Hide y Show.md",
+    "Cursos/AWS/Modulo 1 Información general sobre los conceptos de la nube..md",
+    "Semestre 8/Administración de redes/Administracion de la configuracion.md",
+    "Semestre 8/Inteligencía Artificial/Mineria de datos.md",
+    "Semestre 8/Inteligencía Artificial/Exposicion equipo 2 Inteligencia de colmena.md",
+    "Semestre 8/Inteligencía Artificial/Exposicion equipo 1.md",
+    "Semestre 8/Inteligencía Artificial/Qué es la inteligencia artificial.md",
+    "Cursos/Web/JavaScript/JQuery/Introduccion/Syntaxis.md"
+  ]
+}

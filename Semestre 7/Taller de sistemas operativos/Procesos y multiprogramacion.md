@@ -1,0 +1,5 @@
+# Proceso
+Un programa es una secuencia de instrucciones escrita en un lenguaje dado. Un procesos en una instancia de ejecucion de un programa, caracterizado por su contador de programa, su palabraa de estado, sus registros del procesador, susegmento de texto, pila y datos, etc. Un programa de un concepto estatico, mientras que el proceso es dinamico. Es posible que un programa sea jecutado por varios usuario en un sistema multiusuario por cada una de estas ejecuciones existira un proceso, con su contador de programa, registros, etc. El sistema operativo necesita el concepto de proceso para poder gestionar el procesador mediante la tencica de multiprogramacion o de tiempo compartido, de hecho, el proceso es la unidad planificable, o de asignacion de la CPU.
+
+# Multiprogramacion
+Se apoya en varios elementos del hardware: En un sistema miltiprogramado la memoria principal alberga mas de un programa de usuario.
