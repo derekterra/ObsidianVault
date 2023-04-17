@@ -4,131 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "efc21a5b261bfd16",
+        "id": "3252be8cfc5b5f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "f4913844ebc96ba4",
+            "id": "09284943fd2abf80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 8/Introduccion al Cloud Computing/Info.md",
+                "file": "Cursos/Web/HTML/Platzy/Tipos de selectores -  básicos y combinadores.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93a7e70dcb47e747",
+            "id": "75055d89111f84ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semestre 8/Graficación/Tema 1 - Introducción a la graficación  por computadora.md",
+                "file": "Cursos/Web/HTML/Platzy/Tipos de selectores - pseudoclases y pseudoelementos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7bdca4afd2fd9cee",
+            "id": "31953a6fcbc4a438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Syntaxis.md",
+                "file": "Cursos/Web/HTML/Platzy/Tipos de display más usados - block, inline e inlineblock.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "18323bb873c5d217",
+            "id": "ec3b9e152c34a824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Selectores.md",
+                "file": "Cursos/Web/HTML/Platzy/Tipos de display más usados - block, inline e inlineblock.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f01ecc5ac076dd9",
+            "id": "332248b20aaac359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ffbfb35dc04c9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre 8/Inteligencía Artificial/Qué es la inteligencia artificial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd2eac2108881b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre 8/Inteligencía Artificial/Exposicion equipo 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96505e464ef2eb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre 8/Inteligencía Artificial/Exposicion equipo 2 Inteligencia de colmena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032de530c8d486c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4829c528add1fac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Git y GitHub/Comandos git.md",
+                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Git y GitHub/Comandos git.md"
+                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md"
               }
             }
           }
@@ -256,17 +196,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4829c528add1fac8",
+  "active": "7c3429c3b74ffea5",
   "lastOpenFiles": [
-    "Cursos/Web/JavaScript/JQuery/Efectos/Fading.md",
-    "Cursos/Web/JavaScript/JQuery/Introduccion/Eventos.md",
-    "Cursos/Web/JavaScript/JQuery/Efectos/Hide y Show.md",
-    "Cursos/AWS/Modulo 1 Información general sobre los conceptos de la nube..md",
-    "Semestre 8/Administración de redes/Administracion de la configuracion.md",
-    "Semestre 8/Inteligencía Artificial/Mineria de datos.md",
-    "Semestre 8/Inteligencía Artificial/Exposicion equipo 2 Inteligencia de colmena.md",
-    "Semestre 8/Inteligencía Artificial/Exposicion equipo 1.md",
+    "Semestre 8/Pasted image 20230417004254.png",
+    "Cursos/Web/HTML/Platzy/Tipos de display más usados - block, inline e inlineblock.md",
+    "Cursos/Web/HTML/Platzy/Modelo de caja.md",
+    "Cursos/Web/HTML/Platzy/Cascada y especificidad en CSS.md",
+    "Semestre 8/Pasted image 20230416235000.png",
+    "Cursos/Web/HTML/Platzy/Tipos de selectores - pseudoclases y pseudoelementos.md",
+    "Cursos/Web/HTML/Platzy/Tipos de selectores -  básicos y combinadores.md",
+    "Cursos/Web/HTML/Platzy/Anatomía de una declaración CSS selectores, propiedades y valores.md",
+    "Cursos/Web/HTML/1. Introducción HTML.md",
+    "Cursos/Web/HTML/Platzy/HTML semántico.md",
+    "Cursos/Web/HTML/Platzy/Motores de render.md",
+    "Cursos/Web/CSS/3. Agregar CSS.md",
+    "Cursos/Web/CSS/2. Selectores.md",
+    "Cursos/Web/CSS/1. Introducción CSS.md",
+    "Semestre 8/Graficación/Tema 1 - Introducción a la graficación  por computadora.md",
+    "Cursos/Git y GitHub/Comandos consola.md",
+    "Cursos/Git y GitHub/Comandos git.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 3/Redes semanticas.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 3",
+    "Semestre 8/Graficación/Unidad 2/Curvas.md",
+    "Semestre 8/Graficación/Unidad 2/Traslacion de matrices.md",
+    "Semestre 8/Graficación/Unidad 2/EXAMEN.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 2/Tema 2 Representacion del conocimiento razonamiento y los aspectos metodologicos en inteligencia artificial.md",
+    "Semestre 8/Graficación/Fractales.md",
+    "Semestre 8/Graficación/Info.md",
     "Semestre 8/Inteligencía Artificial/Qué es la inteligencia artificial.md",
-    "Cursos/Web/JavaScript/JQuery/Introduccion/Syntaxis.md"
+    "Semestre 8/Inteligencía Artificial/Info.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 2/Redes neuronales artificiales.md",
+    "Cursos/Web/HTML/Platzy",
+    "Semestre 8/Graficación/Unidad 2",
+    "Semestre 8/Inteligencía Artificial/Unidad 2"
   ]
 }

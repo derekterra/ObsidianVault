@@ -1,0 +1,1 @@
+Es lo que podriamos llegar a conocer como un mapa conceptual para una computadora
