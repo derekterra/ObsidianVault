@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Web/HTML/Platzy/Tipos de selectores -  básicos y combinadores.md",
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Redes semanticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9083f39e85f2301d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md",
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Web/HTML/Platzy/Modelo de caja.md"
+                "file": "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md"
               }
             }
           }
@@ -196,15 +208,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c3429c3b74ffea5",
+  "active": "332248b20aaac359",
   "lastOpenFiles": [
-    "Semestre 8/Pasted image 20230417004254.png",
-    "Cursos/Web/HTML/Platzy/Tipos de display más usados - block, inline e inlineblock.md",
     "Cursos/Web/HTML/Platzy/Modelo de caja.md",
+    "Cursos/Web/HTML/Platzy/Tipos de display más usados - block, inline e inlineblock.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 3/Actualizar Creencias.md",
+    "Semestre 8/Inteligencía Artificial/Unidad 3/Redes semanticas.md",
+    "Cursos/Web/HTML/Platzy/Tipos de selectores -  básicos y combinadores.md",
+    "Semestre 8/Pasted image 20230417004254.png",
     "Cursos/Web/HTML/Platzy/Cascada y especificidad en CSS.md",
     "Semestre 8/Pasted image 20230416235000.png",
     "Cursos/Web/HTML/Platzy/Tipos de selectores - pseudoclases y pseudoelementos.md",
-    "Cursos/Web/HTML/Platzy/Tipos de selectores -  básicos y combinadores.md",
     "Cursos/Web/HTML/Platzy/Anatomía de una declaración CSS selectores, propiedades y valores.md",
     "Cursos/Web/HTML/1. Introducción HTML.md",
     "Cursos/Web/HTML/Platzy/HTML semántico.md",
@@ -215,7 +229,6 @@
     "Semestre 8/Graficación/Tema 1 - Introducción a la graficación  por computadora.md",
     "Cursos/Git y GitHub/Comandos consola.md",
     "Cursos/Git y GitHub/Comandos git.md",
-    "Semestre 8/Inteligencía Artificial/Unidad 3/Redes semanticas.md",
     "Semestre 8/Inteligencía Artificial/Unidad 3",
     "Semestre 8/Graficación/Unidad 2/Curvas.md",
     "Semestre 8/Graficación/Unidad 2/Traslacion de matrices.md",
